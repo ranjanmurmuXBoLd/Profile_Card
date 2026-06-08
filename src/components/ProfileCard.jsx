@@ -1,5 +1,5 @@
 import React from "react";
-import './ProfileCart.css'
+import './ProfileCard.css'
 import profile from '../assets/ranjan.jpg';
 import instagram from '../assets/instagram.png';
 import facebook from '../assets/facebook.png';
